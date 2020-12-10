@@ -1,0 +1,9 @@
+https://docs.opencv.org/master/d9/d61/tutorial_py_morphological_ops.html
+http://datahacker.rs/opencv-common-types-of-noise/
+
+edge detection and iamge gradient
+https://www.programmersought.com/article/2672737346/
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/log.htm
+https://datacarpentry.org/image-processing/08-edge-detection/
+https://scikit-image.org/docs/dev/auto_examples/edges/plot_edge_filter.html 
+https://gist.github.com/rahit/c078cabc0a48f2570028bff397a9e154
